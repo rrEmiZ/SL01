@@ -25,6 +25,8 @@ namespace ConsoleApp22
             sc.SomeText = "Jakis tekst";
             sc.SomeMethod("test");
             sc.SomeMethod("test");
+            sc.SomeMethod("test");
+            sc.SomeMethod("test");
             //sc = "asd";
 
             //Dynamic
